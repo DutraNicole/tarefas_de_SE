@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 char mix[]={'1','4','r','R','A','(','P','u','9','L'};
 
 int main(void) {
@@ -10,4 +10,4 @@ int main(void) {
     }
   }
   return 0;
-}*/
+}
